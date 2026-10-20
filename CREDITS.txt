@@ -1,0 +1,12 @@
+CREDITS
+=======
+Add one block per asset the moment you add it. Copy the details from the
+asset's own page (never from memory, never from an AI chat).
+
+Format:
+  Asset:    name of the pack or file
+  Author:   who made it
+  Link:     the page you downloaded it from
+  License:  CC0 / CC-BY 4.0 / ...
+
+(Nothing here yet. Step 2 of the guide fills this in.)
